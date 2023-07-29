@@ -1,17 +1,17 @@
 # Fianal_Project
 
-This is my final FRT project.Here I created food blog website that serve as a platform for bloggers and foodies to publish articles, recipes, restaurant reviews, and culinary experiences.
+This is my final FRT project.Here I created a car rental website which is designed to revolutionize the car rental experience by offering a user-friendly and feature-rich platform with a wide selection of vehicles.
 
 # Azure link - (https://thankful-cliff-04be6f810.3.azurestaticapps.net)
 
 # Project Statement:
 
-The project aims to create a Foodie Blog Website to cater to food enthusiasts who want to explore and share their passion for food. The website will serve as a platform for bloggers and foodies to publish articles, recipes, restaurant reviews, and culinary experiences. The goal is to create a visually appealing and user-friendly platform that brings together food lovers and fosters a community around food.
+The current car rental process is cumbersome, with limited vehicle options, complex booking procedures, and unclear pricing structures. There is a growing demand for a user-friendly car rental website that offers a wide selection of vehicles, transparent pricing, and an easy booking system.
  
 # Project Description:
 
-The Foodie Blog Website is designed to address the need for a centralized platform where food enthusiasts can come together, share their culinary experiences, and discover new recipes and dining spots. The website will offer a range of features to engage users and create an interactive food-focused community.
-User Registration and Profiles: Users can sign up and create their profiles, enabling them to personalize their experience on the website. They can save their favorite recipes, follow other bloggers, and receive personalized recommendations.
+The VehiGo car rental website is designed to revolutionize the car rental experience by offering a user-friendly and feature-rich platform. With a wide selection of vehicles from trusted providers, customers can easily find their ideal rental car for any occasion. The website provides an intuitive search interface that allows users to filter and sort vehicles based on their preferences, such as car type, price range, and location.
+Each vehicle listing includes detailed information and high-quality images, ensuring customers have all the necessary details to make an informed decision. VehiGo's transparent pricing and straightforward booking process enable users to book their desired vehicle quickly and securely. 
 
 # Azure Technologies used :
 
